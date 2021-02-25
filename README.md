@@ -1,5 +1,5 @@
 # Housing-Kaggle
-House Prices - Advanced Regression Techniques (from Kaggle competition) 
+House Prices - Advanced Regression Techniques<br>
 From: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/evaluation">kaggle competition</a>
 
 ## Description 
